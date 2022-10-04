@@ -1,1 +1,1 @@
-My git task repo
+My git task repository.
